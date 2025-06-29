@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<people>
+    <person>
+        <name>Mohamed Salah</name>
+        <position>Forward</position>
+        <age>32</age>
+        <nationality>Egyptian</nationality>
+        <goals>241</goals>
+        <image>salah.jpg</image>
+        <url>https://www.liverpoolfc.com/team/mens/player/mohamed-salah</url>
+    </person>
+    <person>
+        <name>Virgil van Dijk</name>
+        <position>Defender</position>
+        <age>33</age>
+        <nationality>Dutch</nationality>
+        <goals>20</goals>
+        <url>https://www.liverpoolfc.com/team/mens/player/virgil-van-dijk</url>
+    </person>
+    <person>
+        <name>Trent Alexander-Arnold</name>
+        <position>Defender</position>
+        <age>26</age>
+        <nationality>English</nationality>
+        <goals>15</goals>
+        <image>arnold.jpg</image>
+        <url>https://www.liverpoolfc.com/team/mens/player/trent-alexander-arnold</url>
+    </person>
+    <person>
+        <name>Alisson Becker</name>
+        <position>Goalkeeper</position>
+        <age>32</age>
+        <nationality>Brazilian</nationality>
+        <goals>1 (hes a goalie)</goals>
+        <image>becker.jpg</image>
+        <url>https://www.liverpoolfc.com/team/mens/player/alisson-becker</url>
+    </person>
+    <person>
+        <name>Andy Robertson</name>
+        <position>Defender</position>
+        <age>30</age>
+        <nationality>Scottish</nationality>
+        <goals>10</goals>
+        <image>robertson.jpg</image>
+        <url>https://www.liverpoolfc.com/team/mens/player/andy-robertson</url>
+    </person>
+    <person>
+        <name>Jordan Henderson</name>
+        <position>Midfielder</position>
+        <age>34</age>
+        <nationality>English</nationality>
+        <goals>50</goals>
+        <image>henderson.jpg</image>
+        <url>https://www.liverpoolfc.com/team/mens/player/jordan-henderson</url>
+    </person>
+    <person>
+        <name>Diogo Jota</name>
+        <position>Forward</position>
+        <age>28</age>
+        <nationality>Portuguese</nationality>
+        <goals>60</goals>
+        <image>jota.jpg</image>
+        <url>https://www.liverpoolfc.com/team/mens/player/diogo-jota</url>
+    </person>
+    <person>
+        <name>Fabinho</name>
+        <position>Midfielder</position>
+        <age>31</age>
+        <nationality>Brazilian</nationality>
+        <goals>25</goals>
+        <image>fabinho.jpg</image>
+        <url>https://www.liverpoolfc.com/team/mens/player/fabinho</url>
+    </person>
+    <person>
+        <name>Darwin Nunez</name>
+        <position>Forward</position>
+        <age>25</age>
+        <nationality>Uruguayan</nationality>
+        <goals>40</goals>
+        <image>nunez.jpg</image>
+        <url>https://www.liverpoolfc.com/team/mens/player/darwin-nunez</url>
+    </person>
+    <person>
+        <name>Joe Gomez</name>
+        <position>Defender</position>
+        <age>27</age>
+        <nationality>English</nationality>
+        <goals>5</goals>
+        <image>gomez.jpg</image>
+        <url>https://www.liverpoolfc.com/team/mens/player/joe-gomez</url>
+    </person>
+    <person>
+        <name>Luis Diaz</name>
+        <position>Forward</position>
+        <age>28</age>
+        <nationality>Colombian</nationality>
+        <goals>35</goals>
+        <image>diaz.jpg</image>
+        <url>https://www.liverpoolfc.com/team/mens/player/luis-diaz</url>
+    </person>
+    <person>
+        <name>Ibrahima Konate</name>
+        <position>Defender</position>
+        <age>25</age>
+        <nationality>French</nationality>
+        <goals>10</goals>
+        <image>konate.jpg</image>
+        <url>https://www.liverpoolfc.com/team/mens/player/ibrahima-konate</url>
+    </person>
+ </people>
+
